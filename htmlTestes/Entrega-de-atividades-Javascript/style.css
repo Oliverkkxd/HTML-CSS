@@ -1,0 +1,45 @@
+/* Formatando todos os elementos da tabela */
+table,th,td {
+  border: 1px solid;
+  margin-left: 300px;
+}
+
+/* Formatando so a tabela */
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+
+
+/* Formatando puxando pelo ID */
+#test001{
+  text-align: center;
+}
+#textfla {
+  text-align: left;
+}
+#sccp {
+  text-align: left;
+}
+#spfc {
+  text-align: left;
+}
+#cz {
+  text-align: left;
+}
+#vs {
+  text-align: left;
+}
+#pal {
+  text-align: left;
+}
+
+
+/* formatando a imagem */
+img {
+  margin: 1px;
+  float: 5%;
+  width: 15px;
+  height: auto;
+  margin-left: center;
+}
