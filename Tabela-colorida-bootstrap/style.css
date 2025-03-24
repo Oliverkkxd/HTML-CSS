@@ -1,0 +1,130 @@
+/* Formatando todos os elementos da tabela */
+table,th,td {
+  border: 1px solid;
+  margin-left: center;
+  
+}
+
+
+/* Formatando so a tabela */
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+
+
+/* h3 que tem escrito tabela interativa  */
+h3{
+  text-align: center;
+}
+
+/* Tabelas geral*/
+.tabelaTimes{
+  text-align: center;
+  margin-left: 25%;
+
+}
+
+/* Titulos da Tabela*/
+.titulosTabela{
+  text-align: center;
+}
+
+/* BTNS DA TABELA*/
+/* Botao para diminuir as letras*/
+#diminuirLetras{
+  background-color: rgb(128, 197, 209);
+  width: auto;
+  height: 30px;
+}
+
+/* Botao para aumentar as letras*/
+#aumentarLetras{
+  background-color: rgb(128, 197, 209);
+  width: auto;
+  height: 30px;
+}
+
+.btnFormatar{
+  text-align: center;
+  padding-top: 5px;
+}
+
+#descolorir{
+  background-color: rgb(128, 197, 209);
+}
+
+#colorir{
+  background-color: rgb(128, 197, 209);
+}
+
+
+/* Formatando puxando pelo ID */
+#fla {
+  text-align: left;
+}
+#sccp {
+  text-align: left;
+}
+#cru {
+  text-align: left;
+}
+#vasco{
+  text-align: left;
+}
+#pal {
+  text-align: left;
+}
+
+
+/* formatando a imagem */
+img {
+  margin: 1px;
+  float: 5%;
+  width: 15px;
+  height: auto;
+  margin-left: center;
+}
+
+
+ /* BARRA DE NAVEGAÇÃO*/
+/* Estilo para aumentar a altura da barra de navegação */
+nav.navbar {
+  padding-top: 2px;   /* Aumenta o espaço no topo */
+  width: 100%;
+  height: 48px;
+  
+}
+
+
+/* Barra de navegação aumentando a largura e colocando uma cor*/
+.container-fluid{
+  background-color: lightblue;
+  width: 100%;
+  height: 48px;
+}
+
+/* Barra de navegação parte de Pesquisar*/
+.d-flex{
+  width: 25%;
+  height: 35px;
+}
+
+#tituloHome{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
