@@ -1,0 +1,14 @@
+/* ALINHANDO TODP O BODY*/
+.Quadrado{
+  text-align: center;
+}
+
+/* Arrumar a margin a cima em 10px*/
+#btnCalcular{
+  margin-top: 10px;
+  
+} 
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
